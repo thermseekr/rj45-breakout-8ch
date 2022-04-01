@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "8 channel RJ45 breakout board")
+    (date "2022-04-01")
+    (rev "V2")
+  )
+
   (lib_symbols
     (symbol "Connector:RJ45" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at -5.08 13.97 0)
