@@ -2,6 +2,8 @@
 
 Breakout board for 8x RJ45 connectors.
 
-Used on the electrical cabinet to receive cables from up to eight wall light switch boxes with up to 3 switches each, and connect them to an automation system.
+This board is installed inside the automation cabinet to connect cables coming from up to eight 1 to 3 gang wall switch boxes, and routes those cables to an automation system.
+
+Also check [here](https://github.com/thermseekr/RJ45-breakout-1ch) the board that goes installed inside the wall switch boxes.
 
 ![alt text](https://github.com/thermseekr/RJ45-breakout-8ch/blob/main/V2/RJ45-breakout_8ch-V2.png "RJ45-breakout-8ch")
