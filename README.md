@@ -6,4 +6,4 @@ This board is installed inside the automation cabinet to connect cables coming f
 
 Also check [here](https://github.com/thermseekr/RJ45-breakout-1ch) the board that goes installed inside the wall switch boxes.
 
-![alt text](https://github.com/thermseekr/RJ45-breakout-8ch/blob/main/V2/RJ45-breakout_8ch-V2.png "RJ45-breakout-8ch")
+![alt text](https://github.com/thermseekr/RJ45-breakout-8ch/blob/main/V2/RJ45-breakout-8ch-V2.png "RJ45-breakout-8ch")
