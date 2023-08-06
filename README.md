@@ -8,4 +8,12 @@ The dimensions are such that the board can be mounted on a PCB DIN rail holder f
 
 Also check [here](https://github.com/thermseekr/RJ45-breakout-1ch) for the board that goes inside the wall switch boxes.
 
-![alt text](https://github.com/thermseekr/RJ45-breakout-8ch/blob/main/V2/RJ45-breakout-8ch-V2.png "RJ45-breakout-8ch")
+![alt text](https://github.com/thermseekr/RJ45-breakout-8ch/blob/main/V3/rj45-breakout-8ch-v3.png "RJ45-breakout-8ch")
+
+## VERSION HISTORY
+
+V3 - More space saving: RJ45 jacks changed from right angle to vertical, signal connectors changed from pitch 5.08mm screw to pitch 2.54mm spring cage. Power connector changed from screw to spring cage with two poles to be able to send power to the next board.
+
+V2 - Single power connector instead one per channel, RJ45 jacks repositioned to save space.
+
+V1 - Initial release.
