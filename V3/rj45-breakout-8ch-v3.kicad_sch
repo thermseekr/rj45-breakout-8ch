@@ -1038,7 +1038,7 @@
     (uuid ff71dcfc-1de2-4514-adf7-bbaa1221e248)
   )
 
-  (text "OPÇÕES RJ45\n\nAMPHENOL RJE08-188-0110\nMOUSER 523-RJE081880110\n\nCKMTW(Shenzhen Cankemeng) R-RJ45S08P-A004\nJLCPCB C2902702"
+  (text "OPÇÕES RJ45 VERTICAL\n\nAMPHENOL RJE08-188-0110\nMOUSER 523-RJE081880110\n\nCKMTW(Shenzhen Cankemeng) R-RJ45S08P-A004\nJLCPCB C2902702"
     (at 26.67 176.53 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b436b4fc-9abd-4376-a7a2-e5fd0a13a132)
