@@ -1,4 +1,4 @@
-# RJ45 Breakout 8 channels
+# RJ45-BREAKOUT-8CH
 
 Breakout board for 8x RJ45 connectors.
 
@@ -8,7 +8,7 @@ The dimensions are such that the board can be mounted on a PCB DIN rail holder f
 
 Also check [here](https://github.com/thermseekr/RJ45-breakout-1ch) for the board that goes inside the wall switch boxes.
 
-![alt text](https://github.com/thermseekr/RJ45-breakout-8ch/blob/main/V3/rj45-breakout-8ch-v3.png "RJ45-BREAKOUT-8CH-V3")
+![alt text](https://github.com/thermseekr/rj45-breakout-8ch/blob/main/V3/rj45-breakout-8ch-v3.png "RJ45-BREAKOUT-8CH-V3")
 
 ## VERSION HISTORY
 
