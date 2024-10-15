@@ -6,7 +6,7 @@ This board is mounted inside the automation cabinet to connect cables coming fro
 
 The dimensions are such that the board can be mounted on a PCB DIN rail holder from the Brazilian manufacturer Metaltex, check [here](https://www.metaltex.com.br/produtos/componentes/suportes/sp7-suporte-para-montagem-de-placa-de-circuito-impresso-em-trilho-din) for details.
 
-Also check [here](https://github.com/thermseekr/RJ45-breakout-1ch) for the board that goes inside the wall switch boxes.
+Also check [here](https://github.com/thermseekr/RJ45-breakout-1ch) for the board that mounts inside the wall switch boxes.
 
 ![alt text](https://github.com/thermseekr/rj45-breakout-8ch/blob/main/V3/rj45-breakout-8ch-v3.png "RJ45-BREAKOUT-8CH-V3")
 
