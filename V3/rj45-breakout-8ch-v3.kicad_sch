@@ -4087,7 +4087,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-2-5.08_1x02_P5.08mm_Vertical"
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-2P_1x02_P5.08mm_Vertical"
 			(at 113.03 29.21 0)
 			(effects
 				(font

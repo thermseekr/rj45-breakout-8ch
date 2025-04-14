@@ -168,7 +168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -192,7 +192,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -288,7 +288,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006148ec7a")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -597,7 +599,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -621,7 +623,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -717,7 +719,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006149557a")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1026,7 +1030,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1050,7 +1054,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1146,7 +1150,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006148c283")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -1455,7 +1461,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB141V-2.54-6P_1x06_P2.54mm_Vertical"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1479,7 +1485,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1575,7 +1581,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/bfa2bc2c-4ccd-4a55-8de3-bece7b829563")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2497,7 +2505,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2521,7 +2529,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2617,7 +2625,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-000061493833")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -2926,7 +2936,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2950,7 +2960,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3046,7 +3056,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006149464f")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -3355,7 +3367,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB141V-2.54-6P_1x06_P2.54mm_Vertical"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3379,7 +3391,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -3475,7 +3487,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b9517e1d-bdcd-4e26-aea6-b3a4bb47f2cb")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -4397,7 +4411,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB141V-2.54-6P_1x06_P2.54mm_Vertical"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4421,7 +4435,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -4517,7 +4531,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/0a3d2635-84d4-4c54-8ea9-910f429031d9")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5439,7 +5455,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5463,7 +5479,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5559,7 +5575,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-000061492b17")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -5868,7 +5886,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5892,7 +5910,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5988,7 +6006,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-00006149015e")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6297,7 +6317,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:RJ45_CKMTW_R-RJ45S08P-A004"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6321,7 +6341,7 @@
 				)
 			)
 		)
-		(property "Description" "RJ connector, 8P8C (8 positions 8 connected)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6417,7 +6437,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "8P8C* RJ31* RJ32* RJ33* RJ34* RJ35* RJ41* RJ45* RJ49* RJ61*")
 		(path "/00000000-0000-0000-0000-0000614910c0")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -6726,7 +6748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB141V-2.54-6P_1x06_P2.54mm_Vertical"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6750,7 +6772,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -6846,7 +6868,9 @@
 				)
 			)
 		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/480cd648-9263-43e0-962d-3cab77bb0938")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
@@ -7740,7 +7764,7 @@
 			)
 		)
 	)
-	(footprint "Tales:TerminalBlock_Dibo_DB142V-2-5.08_1x02_P5.08mm_Vertical"
+	(footprint "Tales:TerminalBlock_Dibo_DB142V-5.08-2P_1x02_P5.08mm_Vertical"
 		(layer "F.Cu")
 		(uuid "c3d51bac-737e-4b57-81bc-8687aef624d8")
 		(at 104 124.5)
@@ -7748,7 +7772,7 @@
 			(at 9 -10.5 0)
 			(unlocked yes)
 			(layer "Cmts.User")
-			(uuid "b76fb69d-e9a1-4050-ab5b-83273b6f5e25")
+			(uuid "9be240db-84b5-4b12-b173-80a385289aa0")
 			(effects
 				(font
 					(size 1 0.7)
@@ -7757,10 +7781,10 @@
 			)
 		)
 		(property "Value" "DB142V-5.08-2P"
-			(at 2.54 5.08 0)
+			(at 3.8 5.54 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "35ced120-f2eb-4ee8-98be-405cb7565a69")
+			(uuid "f29974b0-65c2-4eea-bce7-3fad881c139f")
 			(effects
 				(font
 					(size 1 1)
@@ -7768,11 +7792,11 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Tales:TerminalBlock_Dibo_DB142V-5.08-2P_1x02_P5.08mm_Vertical"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f9c5b00-1125-44c0-897d-6cc044cd5ffa")
+			(uuid "9850bea1-1f1f-4cab-a7b6-e94c72616599")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7784,7 +7808,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1fd5c5cc-6429-4c3f-9ada-aafd4c16d147")
+			(uuid "d971edbd-d367-4c51-812b-13578741c2d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7792,35 +7816,24 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" ""
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4a7dcb16-c5fa-4c64-bb28-fed9a5a950de")
+			(uuid "8aeeb4cf-74de-4c8d-9ded-705a257cb984")
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Case" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b6f60528-f664-42b1-9e43-27db91a730bc")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
 		)
 		(property "JLCPCB BOM" "1"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8efe7a9a-f6a9-4c9d-b436-daf578b54c44")
+			(uuid "aa400b24-76d0-408c-a52b-583c093168d5")
 			(effects
 				(font
 					(size 1 1)
@@ -7830,9 +7843,10 @@
 		)
 		(property "LCSC Part" "C2898699"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a2a306e6-aa5f-41bc-9797-052689786590")
+			(uuid "2cbcf4fe-e8a6-4bbb-8241-6252920b495b")
 			(effects
 				(font
 					(size 1 1)
@@ -7842,9 +7856,10 @@
 		)
 		(property "Mfr" "DIBO"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6358e578-5c43-460e-b1ce-d8e52579c448")
+			(uuid "1f45f487-73ee-4044-88f9-21abce425011")
 			(effects
 				(font
 					(size 1 1)
@@ -7854,9 +7869,10 @@
 		)
 		(property "Mfr PN" "DB142V-5.08-2P"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d6000d56-998c-4daa-934a-cab82e72cbe6")
+			(uuid "490ac1c4-947b-406c-899c-e3c9e67bc1dd")
 			(effects
 				(font
 					(size 1 1)
@@ -7866,9 +7882,10 @@
 		)
 		(property "Vendor" "JLCPCB"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "22d98e8b-c69f-4aa5-a66e-0d93268d1e9d")
+			(uuid "979ce9e8-453d-4512-bf2d-fdba8bc663d3")
 			(effects
 				(font
 					(size 1 1)
@@ -7878,9 +7895,10 @@
 		)
 		(property "Vendor PN" "C2898699"
 			(at 0 0 0)
+			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e076f8b0-e211-4853-83eb-4ee3d35c982b")
+			(uuid "4e6443ee-ab58-4b74-b294-29c8a2154331")
 			(effects
 				(font
 					(size 1 1)
@@ -7888,395 +7906,454 @@
 				)
 			)
 		)
+		(property "Case" ""
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24fea370-5e79-478f-b20d-720dc0a068da")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/b93fbdd7-9c1c-4a6a-8315-1e0b955daf70")
+		(sheetname "Root")
 		(sheetfile "rj45-breakout-8ch-v3.kicad_sch")
 		(attr through_hole)
 		(fp_line
-			(start -2.6 1.44)
-			(end -2.6 -9.06)
+			(start -2.55 1.44)
+			(end -2.55 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "3b29205b-a98a-442a-862d-29420ba17a05")
+			(uuid "5ecee733-537b-44e2-8b26-6a6acf0d159e")
 		)
 		(fp_line
-			(start -2.16 -12.06)
-			(end 2.54 -12.06)
+			(start -2.17 -12.06)
+			(end 2.53 -12.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "60f5ac4c-2e2f-45d7-9536-19acec4eeb4d")
+			(uuid "4c310f13-5ba6-44b4-a739-c110988f78cf")
 		)
 		(fp_line
-			(start -2.16 -9.46)
-			(end -2.16 -12.06)
+			(start -2.17 -9.46)
+			(end -2.17 -12.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "12bb9286-797e-45ca-b092-ee5b6c7f4d82")
+			(uuid "cabf3c40-515e-47b7-8ba4-8b7eb476c1e6")
 		)
 		(fp_line
-			(start -2.1 -10.26)
-			(end 1.48 -10.26)
+			(start -2.11 -10.26)
+			(end 1.47 -10.26)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "b441091a-3eae-42d0-b8ac-0661d9ea76be")
+			(uuid "16f57964-7e5a-4b22-9f86-fe56241974b4")
 		)
 		(fp_line
-			(start -1.016 -9.06)
-			(end -2.6 -9.06)
+			(start -0.966 -9.06)
+			(end -2.55 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "cddfd62c-8dbb-459d-8c30-2ca1f4c55c88")
+			(uuid "d5a30675-a635-4c46-ac95-055340dcce51")
 		)
 		(fp_line
-			(start -1.016 1.44)
-			(end -2.6 1.44)
+			(start -0.966 1.44)
+			(end -2.55 1.44)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "534dd1e7-f247-4688-9179-e9ecafd10283")
+			(uuid "7e4f5129-158d-482d-bbb7-5bb5ea8b0fab")
 		)
 		(fp_line
-			(start 1.48 -11.303)
-			(end -2.1 -11.303)
+			(start 1.47 -11.303)
+			(end -2.11 -11.303)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "507d4092-97e0-4b10-8227-7a50f10fd727")
+			(uuid "c7ea69af-3738-4938-aef1-e4c479beb32d")
 		)
 		(fp_line
-			(start 1.48 -10.26)
-			(end 1.48 -11.303)
+			(start 1.47 -10.26)
+			(end 1.47 -11.303)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "0b6cea59-78dd-40ff-a66d-2d7fb933e17e")
+			(uuid "3da39da0-bc59-43c9-a7cd-29d66b99da73")
 		)
 		(fp_line
-			(start 1.524 -9.46)
-			(end 1.524 -9.06)
+			(start 1.514 -9.46)
+			(end 1.514 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "45694691-5631-465e-ab33-27c511d2bc30")
+			(uuid "152da72b-e6e1-4538-bc3e-e344b9be368b")
 		)
 		(fp_line
-			(start 1.711 -7.22)
-			(end 2.54 -7.22)
+			(start 1.701 -7.22)
+			(end 2.53 -7.22)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "b639a238-8cc3-4501-bd46-6b02945792cc")
+			(uuid "3cbb1286-79dd-4951-89f0-cc945477e5f2")
 		)
 		(fp_line
-			(start 1.711 -4.62)
-			(end 1.711 -7.22)
+			(start 1.701 -4.62)
+			(end 1.701 -7.22)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "7f49d464-6eb7-42d8-bdc1-bc67efc115ce")
+			(uuid "6fc0d187-3618-4f2f-a6f1-b6bd5a838dbc")
 		)
 		(fp_line
-			(start 2.54 -12.06)
-			(end 2.54 -9.06)
+			(start 2.53 -12.06)
+			(end 2.53 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "84c050c4-c575-4b5c-a615-a8d0196fbdce")
+			(uuid "6f921ad2-65e6-4fe1-be90-2948f96c4ff1")
 		)
 		(fp_line
-			(start 2.54 -9.46)
-			(end -2.16 -9.46)
+			(start 2.53 -9.46)
+			(end -2.17 -9.46)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "f837bf92-d679-4a47-b882-adac25d85ca5")
+			(uuid "489edf84-f41b-43f4-9f05-48eb05ba7516")
 		)
 		(fp_line
-			(start 2.54 -4.62)
-			(end 1.711 -4.62)
+			(start 2.53 -4.62)
+			(end 1.701 -4.62)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "4726eaa2-14dd-45d6-9cdc-9fdb2a1cc153")
+			(uuid "dabe7834-b4df-4ed9-91cc-0dce31af1eb1")
 		)
 		(fp_line
-			(start 2.54 1.44)
-			(end 2.54 -9.06)
+			(start 2.53 1.44)
+			(end 2.53 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "31ac1dc5-469b-42f7-acab-c627d6085459")
+			(uuid "7cff6fb9-1c12-40f6-97e0-41c775bad3b4")
 		)
 		(fp_line
-			(start 2.92 -12.06)
-			(end 7.62 -12.06)
+			(start 2.91 -12.06)
+			(end 7.61 -12.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "f674f5db-4030-4af0-b969-7f5b0c47d82e")
+			(uuid "e8e1f32b-1d8c-4ac9-b3d3-344c1ee3c08d")
 		)
 		(fp_line
-			(start 2.92 -9.46)
-			(end 2.92 -12.06)
+			(start 2.91 -9.46)
+			(end 2.91 -12.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "45735b4a-b193-422f-97f4-97d1f29e8dbd")
+			(uuid "a6fa19a0-8a02-42e7-9306-b051521b55ba")
 		)
 		(fp_line
-			(start 2.98 -10.26)
-			(end 6.56 -10.26)
+			(start 2.97 -10.26)
+			(end 6.55 -10.26)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "5015160b-76e5-4f77-914b-52c0f034a54d")
+			(uuid "d25fd21c-dd52-4e94-9cf1-23a317069a9f")
 		)
 		(fp_line
-			(start 4.064 -9.06)
-			(end 1.016 -9.06)
+			(start 4.054 -9.06)
+			(end 1.006 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "9ef224fd-4b81-4b98-9ccc-2a25654717be")
+			(uuid "c869ab3b-d964-43da-88b8-800f9cc5053b")
 		)
 		(fp_line
-			(start 4.064 1.44)
-			(end 1.016 1.44)
+			(start 4.054 1.44)
+			(end 1.006 1.44)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "c392cb5a-1cf5-4a8f-9a4f-1acee2bb95da")
+			(uuid "3c430c3f-b28a-40a9-b81d-cd9b33218ce1")
 		)
 		(fp_line
-			(start 6.096 -9.06)
-			(end 10.16 -9.06)
+			(start 6.086 -9.06)
+			(end 10.15 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "66b2a1f1-dfca-45b1-8b50-cfb5e1195893")
+			(uuid "fd669c6e-52f1-42e1-839f-5aa1e8e562a7")
 		)
 		(fp_line
-			(start 6.56 -11.303)
-			(end 2.98 -11.303)
+			(start 6.55 -11.303)
+			(end 2.97 -11.303)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "f3606c12-92e8-4f4c-b3fe-c72ae1a542e5")
+			(uuid "51582285-ebff-4a89-9cc4-30be401f0e6e")
 		)
 		(fp_line
-			(start 6.56 -10.26)
-			(end 6.56 -11.303)
+			(start 6.55 -10.26)
+			(end 6.55 -11.303)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "7418a11f-90f1-481b-b543-ce045804e6bf")
+			(uuid "be525e46-6ab6-4f7f-9632-e441cca4dc40")
 		)
 		(fp_line
-			(start 6.604 -9.46)
-			(end 6.604 -9.06)
+			(start 6.594 -9.46)
+			(end 6.594 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "01be7d06-4f4a-4325-aa1e-6604cd04a786")
+			(uuid "89d8871d-3980-4774-935e-595068e69d08")
 		)
 		(fp_line
-			(start 6.791 -7.22)
-			(end 7.62 -7.22)
+			(start 6.781 -7.22)
+			(end 7.61 -7.22)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "f7123258-c0eb-4725-8f09-0965a3fbe551")
+			(uuid "16f659e0-13a1-4deb-8ef5-704d70e7389f")
 		)
 		(fp_line
-			(start 6.791 -4.62)
-			(end 6.791 -7.22)
+			(start 6.781 -4.62)
+			(end 6.781 -7.22)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "75d2c9ca-eca9-4206-adff-7070ec307a6b")
+			(uuid "c864fc55-5283-4f19-82bf-a25abb98450b")
 		)
 		(fp_line
-			(start 7.62 -12.06)
-			(end 7.62 -9.06)
+			(start 7.61 -12.06)
+			(end 7.61 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "1ecab9df-1c7e-4fa3-8c73-2025697395c1")
+			(uuid "6b472df6-01c0-4be7-a484-fbc0da99f5bc")
 		)
 		(fp_line
-			(start 7.62 -9.46)
-			(end 2.92 -9.46)
+			(start 7.61 -9.46)
+			(end 2.91 -9.46)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "5e17c93b-d952-4d17-8f87-3c821c58ebab")
+			(uuid "ea8be457-fe0b-49b2-a235-261ed4d4f8dc")
 		)
 		(fp_line
-			(start 7.62 -4.62)
-			(end 6.791 -4.62)
+			(start 7.61 -4.62)
+			(end 6.781 -4.62)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "a40c139e-8473-455c-a658-2face9353959")
+			(uuid "576b45b0-67c2-4c93-80cf-a81f6742021e")
 		)
 		(fp_line
-			(start 7.62 1.44)
-			(end 7.62 -9.06)
+			(start 7.61 1.44)
+			(end 7.61 -9.06)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "462bebee-c498-4184-816c-213f4e0dfc12")
+			(uuid "d1d51bb9-34ad-4d9c-b0a1-7b01446dc3fc")
 		)
 		(fp_line
-			(start 10.1 -3.92)
-			(end -2.6 -3.92)
+			(start 10.15 -9.06)
+			(end 10.15 1.44)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "8997932a-d500-414b-a674-ce60b286a837")
+			(uuid "f2606954-712f-4486-adcb-557cb788bca6")
 		)
 		(fp_line
-			(start 10.16 -9.06)
-			(end 10.16 1.44)
+			(start 10.15 -3.4)
+			(end -2.55 -3.4)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "85b41b09-ff01-4444-a0d4-e13b78c71a35")
+			(uuid "971dfce1-3a5e-4aca-97a5-83a16d0077d6")
 		)
 		(fp_line
-			(start 10.16 1.44)
-			(end 6.096 1.44)
+			(start 10.15 1.44)
+			(end 6.086 1.44)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.SilkS")
-			(uuid "4a786296-7364-4aa3-9e9d-3e71e1f6603c")
+			(uuid "9a57b64e-4a0a-47b6-a863-4b40c33d2bf5")
+		)
+		(fp_circle
+			(center -0.55 -6.6)
+			(end 0.85 -6.6)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "ed747aaa-b25a-4eed-8a3a-3b6b1127281a")
+		)
+		(fp_circle
+			(center -0.55 -6.6)
+			(end 1.25 -6.6)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "5f6876c3-3dab-4950-b2e6-2b65a7456e2c")
+		)
+		(fp_circle
+			(center 4.53 -6.6)
+			(end 5.93 -6.6)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "eb17be4c-7024-457d-8b86-2f9df5505c18")
+		)
+		(fp_circle
+			(center 4.53 -6.6)
+			(end 6.33 -6.6)
+			(stroke
+				(width 0.1)
+				(type default)
+			)
+			(fill none)
+			(layer "F.SilkS")
+			(uuid "fa58599a-9efc-463b-8643-80dd56e2ed51")
 		)
 		(fp_rect
-			(start 10.31 1.59)
-			(end -2.75 -12.21)
+			(start 10.3 1.59)
+			(end -2.7 -12.21)
 			(stroke
 				(width 0.05)
 				(type default)
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "57b74eec-d3d0-40fe-9f78-26fbac04bfb8")
+			(uuid "4d75256b-774d-4c09-aaf0-9e28bb095eae")
 		)
 		(fp_line
-			(start -2.4892 -11.9888)
-			(end 10.0584 -11.9888)
+			(start -2.4392 -11.9888)
+			(end 10.1084 -11.9888)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "e32c7161-d487-4dc5-ae43-2830ae64007b")
+			(uuid "324dfbd2-2f9a-4a88-872d-5dd9078a37f0")
 		)
 		(fp_line
-			(start -2.4892 1.3208)
-			(end -2.4892 -11.9888)
+			(start -2.4392 1.3208)
+			(end -2.4392 -11.9888)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "6cf5e56c-f604-4a0e-b1a3-abee8f1cd318")
+			(uuid "18ddc816-d4dc-48d6-bf55-71936d293ce8")
 		)
 		(fp_line
-			(start 10.0584 -11.9888)
-			(end 10.0584 1.3208)
+			(start 10.1084 -11.9888)
+			(end 10.1084 1.3208)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "a328852b-c286-41d2-adb2-d82c12d8a79f")
+			(uuid "c8069dfa-40ba-4fbe-bd02-612215a1fafe")
 		)
 		(fp_line
-			(start 10.0584 1.3208)
-			(end -2.4892 1.3208)
+			(start 10.1084 1.3208)
+			(end -2.4392 1.3208)
 			(stroke
 				(width 0.1)
 				(type default)
 			)
 			(layer "F.Fab")
-			(uuid "727112d8-4b9c-4678-831f-ccaec8c1f489")
+			(uuid "58604bfb-70f3-4a05-aa5d-2129f93bed30")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.54 7.62 0)
+			(at 3.8 8.08 0)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "d9d458c1-c187-437d-9ca6-8d3fdad99ab9")
+			(uuid "08d213ef-6043-489a-8298-d1c843bd8894")
 			(effects
 				(font
 					(size 1 1)
@@ -8293,7 +8370,7 @@
 			(net 1 "Net-(J9-Pin_1)")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "59056bc7-02c0-4c74-9411-e6b63010179c")
+			(uuid "d572a22c-4aae-444a-834f-8fac09b3bb86")
 		)
 		(pad "1" thru_hole circle
 			(at 0 0 180)
@@ -8304,7 +8381,7 @@
 			(net 1 "Net-(J9-Pin_1)")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "24a744b0-17ed-43ef-84ec-e97ed44c254f")
+			(uuid "b34f9bdb-aaa7-448f-a782-3a4c7089dc7a")
 		)
 		(pad "2" thru_hole circle
 			(at 5.08 -7.62 180)
@@ -8315,7 +8392,7 @@
 			(net 1 "Net-(J9-Pin_1)")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "98abbfbc-9de8-490c-87c3-48d491e2ad1b")
+			(uuid "01e0d3ee-1e88-4f0c-82ea-3b01ec4d5963")
 		)
 		(pad "2" thru_hole circle
 			(at 5.08 0 180)
@@ -8326,7 +8403,7 @@
 			(net 1 "Net-(J9-Pin_1)")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "9c15c93a-c5d0-4b6d-b287-f98742660203")
+			(uuid "e26e54fc-4e0b-45d1-b0d0-eed6c6c01319")
 		)
 		(model "${TDEV_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_DB142V-508-2P.stp"
 			(offset
@@ -11929,9 +12006,8 @@
 				(xy 102.293224 126.97724) (xy 102.129001 126.927424) (xy 102.106543 126.918121) (xy 101.955201 126.837227)
 				(xy 101.934989 126.823722) (xy 101.802333 126.714854) (xy 101.785145 126.697666) (xy 101.676277 126.56501)
 				(xy 101.662772 126.544798) (xy 101.581878 126.393456) (xy 101.572575 126.370998) (xy 101.522757 126.206769)
-				(xy 101.518018 126.182941) (xy 101.500597 126.006061) (xy 101.5 125.993907) (xy 101.5 97.499999)
-				(xy 102.9 97.499999) (xy 102.9 97.5) (xy 102.9 99.2) (xy 103.9 100.2) (xy 105.7 100.2) (xy 106.7 99.2)
-				(xy 106.7 97.5) (xy 105.7 96.5) (xy 103.9 96.5) (xy 103.899999 96.5) (xy 102.9 97.499999) (xy 101.5 97.499999)
+				(xy 101.518018 126.182941) (xy 101.500597 126.006061) (xy 101.5 125.993907) (xy 101.5 100.3) (xy 102.9 100.3)
+				(xy 106.8 100.3) (xy 106.8 97.5) (xy 105.7 96.4) (xy 102.9 96.4) (xy 102.9 100.3) (xy 101.5 100.3)
 				(xy 101.5 73.420306) (xy 101.500597 73.408152) (xy 101.518018 73.231269) (xy 101.522757 73.207445)
 				(xy 101.572577 73.043207) (xy 101.581875 73.020762) (xy 101.662775 72.869408) (xy 101.676272 72.849208)
 				(xy 101.789039 72.711802) (xy 101.797192 72.702807) (xy 106.702807 67.797192) (xy 106.711802 67.789039)
@@ -11966,8 +12042,7 @@
 		)
 		(polygon
 			(pts
-				(xy 102.9 99.2) (xy 102.9 97.5) (xy 103.9 96.5) (xy 105.7 96.5) (xy 106.7 97.5) (xy 106.7 99.2)
-				(xy 105.7 100.2) (xy 103.9 100.2)
+				(xy 102.9 96.4) (xy 105.7 96.4) (xy 106.8 97.5) (xy 106.8 100.3) (xy 102.9 100.3)
 			)
 		)
 	)
