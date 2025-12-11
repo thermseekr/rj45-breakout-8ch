@@ -2309,7 +2309,7 @@
 			(net 22 "/CH7PAR2")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "ccde4645-0d8d-4df8-9ab5-bd7f677e8399")
+			(uuid "1b82f061-816d-4ddb-ab59-fed2d670759c")
 		)
 		(pad "2" thru_hole circle
 			(at -3.81 -2.54 180)
@@ -2331,7 +2331,7 @@
 			(net 20 "/CH7PAR3")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "d086c329-ba1f-4d36-9277-41c2a9dafb0f")
+			(uuid "26e3f14c-7ebf-4fdc-9ad4-7913f85a35b5")
 		)
 		(pad "3" thru_hole circle
 			(at -1.27 -2.54 180)
@@ -2353,7 +2353,7 @@
 			(net 21 "/CH7PAR4")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "30cb866e-9b56-4a66-b580-bb01e77ece83")
+			(uuid "adcbdcec-dbb8-4ed0-9ef9-f96eafc9c8e0")
 		)
 		(pad "4" thru_hole circle
 			(at 1.27 -2.54 180)
@@ -2375,7 +2375,7 @@
 			(net 25 "/CH8PAR2")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "1730e9f1-993c-4ce7-b608-63557282472b")
+			(uuid "5394f102-f7d9-4c83-afab-a3a406811c37")
 		)
 		(pad "5" thru_hole circle
 			(at 3.81 -2.54 180)
@@ -2397,7 +2397,7 @@
 			(net 23 "/CH8PAR3")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "abec5407-ff84-4c36-8429-974dccaae670")
+			(uuid "a24617fe-a0f7-41c4-a0ec-b82cee37925e")
 		)
 		(pad "6" thru_hole circle
 			(at 6.35 -2.54 180)
@@ -2419,7 +2419,7 @@
 			(net 24 "/CH8PAR4")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "2eb483e2-7987-4a6b-b3a4-2a27af8ca504")
+			(uuid "b303ef93-4525-4829-be39-67f893a1a1bc")
 		)
 		(embedded_fonts no)
 		(model "${TDEV_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_DB141V-254-6P.stp"
@@ -4283,7 +4283,7 @@
 			(net 3 "/CH1PAR2")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "fba4df4b-dc18-480f-9b2c-abdf8938e288")
+			(uuid "91a4005b-bfbd-4a94-aaaf-47a67cd26e05")
 		)
 		(pad "2" thru_hole circle
 			(at -3.81 -2.54 180)
@@ -4305,7 +4305,7 @@
 			(net 1 "/CH1PAR3")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "6779336e-7c59-41db-aaee-40d9ede882b5")
+			(uuid "e489b552-f3c2-4cfb-a69d-f0d06e438c61")
 		)
 		(pad "3" thru_hole circle
 			(at -1.27 -2.54 180)
@@ -4327,7 +4327,7 @@
 			(net 4 "/CH1PAR4")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "a25c32b6-fd88-47ab-afbc-cf1869969b7c")
+			(uuid "cd916ed8-8306-45f9-8f01-4253b488ba23")
 		)
 		(pad "4" thru_hole circle
 			(at 1.27 -2.54 180)
@@ -4349,7 +4349,7 @@
 			(net 5 "/CH2PAR2")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "f545f50e-c79f-43f0-a202-b154d47d06c2")
+			(uuid "1a0b014e-817c-4475-9e41-82d51a69acb4")
 		)
 		(pad "5" thru_hole circle
 			(at 3.81 -2.54 180)
@@ -4371,7 +4371,7 @@
 			(net 6 "/CH2PAR3")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "fc6e953a-76ec-4afa-98a0-3f56faea7c45")
+			(uuid "88a7db31-54df-4ac2-a5cd-9a7991825149")
 		)
 		(pad "6" thru_hole circle
 			(at 6.35 -2.54 180)
@@ -4393,7 +4393,7 @@
 			(net 7 "/CH2PAR4")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "efd6804b-6d14-4f5a-820f-a8bdcfb0da31")
+			(uuid "b4cb7e11-338a-4f50-8739-fc9d827477a3")
 		)
 		(embedded_fonts no)
 		(model "${TDEV_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_DB141V-254-6P.stp"
@@ -5316,7 +5316,7 @@
 			(net 14 "/CH5PAR2")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "a08daa0e-8b66-44b0-a23d-d87a73bb881a")
+			(uuid "d1b73671-35e7-415c-946d-550df9b90206")
 		)
 		(pad "2" thru_hole circle
 			(at -3.81 -2.54 180)
@@ -5338,7 +5338,7 @@
 			(net 15 "/CH5PAR3")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "bf451bc4-32f0-46f9-9ec7-d634d9daa7f5")
+			(uuid "50ca73cc-ae03-4704-8e74-6d56efd01215")
 		)
 		(pad "3" thru_hole circle
 			(at -1.27 -2.54 180)
@@ -5360,7 +5360,7 @@
 			(net 16 "/CH5PAR4")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "1a6d9883-7c35-40f5-a9f7-7d0b88bc3b5b")
+			(uuid "c36c48b0-2e4e-4d4f-8083-168879390b4e")
 		)
 		(pad "4" thru_hole circle
 			(at 1.27 -2.54 180)
@@ -5382,7 +5382,7 @@
 			(net 19 "/CH6PAR2")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "7b2b8b8a-58d3-493b-8525-0f58be372fdf")
+			(uuid "06505553-11df-42f5-a268-26a35feb8a58")
 		)
 		(pad "5" thru_hole circle
 			(at 3.81 -2.54 180)
@@ -5404,7 +5404,7 @@
 			(net 18 "/CH6PAR3")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "af205cf3-35cd-47ec-9653-5a9affdb1560")
+			(uuid "e4ad0c11-95f4-4704-a620-63ec3dfad3ce")
 		)
 		(pad "6" thru_hole circle
 			(at 6.35 -2.54 180)
@@ -5426,7 +5426,7 @@
 			(net 17 "/CH6PAR4")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "1594c7af-13e4-4143-80b1-84e691e3b858")
+			(uuid "c0f23353-ba87-45c7-865a-a69270a8a657")
 		)
 		(embedded_fonts no)
 		(model "${TDEV_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_DB141V-254-6P.stp"
@@ -7710,7 +7710,7 @@
 			(net 9 "/CH3PAR2")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "f36e7243-faf7-43f8-a572-c750513d61fd")
+			(uuid "0a3d3790-0af9-428a-b3ea-c091f5c36eeb")
 		)
 		(pad "2" thru_hole circle
 			(at -3.81 -2.54 180)
@@ -7732,7 +7732,7 @@
 			(net 8 "/CH3PAR3")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "dfedfd50-272a-4810-8626-6f8605683cdd")
+			(uuid "215f00ef-1c64-4c4d-a683-c864ea940ec8")
 		)
 		(pad "3" thru_hole circle
 			(at -1.27 -2.54 180)
@@ -7754,7 +7754,7 @@
 			(net 10 "/CH3PAR4")
 			(pinfunction "Pin_3")
 			(pintype "passive")
-			(uuid "d3f6cbd7-e3ea-451d-b2b7-84103f51c9dc")
+			(uuid "10b279df-e243-4285-87cf-2c548b3f2de0")
 		)
 		(pad "4" thru_hole circle
 			(at 1.27 -2.54 180)
@@ -7776,7 +7776,7 @@
 			(net 11 "/CH4PAR2")
 			(pinfunction "Pin_4")
 			(pintype "passive")
-			(uuid "a18e42f4-822c-435c-a05f-7db807eeddf7")
+			(uuid "b77808a0-6e1a-412f-9114-3d5865102416")
 		)
 		(pad "5" thru_hole circle
 			(at 3.81 -2.54 180)
@@ -7798,7 +7798,7 @@
 			(net 12 "/CH4PAR3")
 			(pinfunction "Pin_5")
 			(pintype "passive")
-			(uuid "591287c6-6ea6-43dc-b2d4-ac7dd455a2f5")
+			(uuid "5684c24c-59cc-4aff-abfb-8fef2ba4553d")
 		)
 		(pad "6" thru_hole circle
 			(at 6.35 -2.54 180)
@@ -7820,7 +7820,7 @@
 			(net 13 "/CH4PAR4")
 			(pinfunction "Pin_6")
 			(pintype "passive")
-			(uuid "5ab81340-cf96-452a-a474-cfcd11a5125c")
+			(uuid "bb8aa990-45e3-4e63-9ae5-012448a2a234")
 		)
 		(embedded_fonts no)
 		(model "${TDEV_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_DB141V-254-6P.stp"
@@ -8440,7 +8440,7 @@
 			(net 2 "/+24V")
 			(pinfunction "Pin_1")
 			(pintype "passive")
-			(uuid "d572a22c-4aae-444a-834f-8fac09b3bb86")
+			(uuid "dae36871-c2b0-43cb-81a5-60de77d0c450")
 		)
 		(pad "2" thru_hole circle
 			(at 2.54 -3.81 180)
@@ -8462,7 +8462,7 @@
 			(net 2 "/+24V")
 			(pinfunction "Pin_2")
 			(pintype "passive")
-			(uuid "01e0d3ee-1e88-4f0c-82ea-3b01ec4d5963")
+			(uuid "d7daef85-ff38-41e4-8885-f919656857a1")
 		)
 		(embedded_fonts no)
 		(model "${TDEV_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_DB142V-508-2P.stp"
